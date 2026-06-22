@@ -7,8 +7,8 @@ smooth navigation, interactive elements, and organized code structure. The prima
 to strengthen my understanding of HTML, CSS, JavaScript, and responsive design principles while creating a professional-looking web page.
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 ## Features
 - Responsive design for all screen sizes
@@ -16,4 +16,3 @@ to strengthen my understanding of HTML, CSS, JavaScript, and responsive design p
 - Modern and clean user interface
 - Smooth scrolling and user interactions
 - Organized and maintainable code
-website link:
